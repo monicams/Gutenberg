@@ -10,6 +10,46 @@ My intent is to transform each of the books in turn, enrich with illustrations (
 - [A Study in Scarlet](http://monicams.github.io/MySherlock/A-Study-In-Scarlet/)
 
 ##History
+<<<<<<< HEAD
+=======
+Follow [@gutenbergtype](http://twitter.com/gutenbergtype) for updates.
+
+###Gutenberg v1.2.3
+
+*Oct 4, 2016*
+
+- Fixed minor bugs,
+- updated the gruntfile.js
+
+###Gutenberg v1.2.2
+
+*Aug 22, 2016*
+
+- Added defaults to the config file
+
+###Gutenberg v1.2.1
+
+*Jun 1, 2016*
+
+- Improved box-sizing,
+- fixed the import heading bug
+
+###Gutenberg v1.2
+
+*May 31, 2016*
+
+- Project folder structure restructured and modularized thanks to @marcobiedermann
+
+###Gutenberg v1.1
+
+*Jan 20, 2016*
+
+- Code optimized and simplified by use of mixins,
+- horizontal rule styling now more flexible with its own configuration,
+- Attention Grabber — a new element,
+- quotes — an alternative to blockquotes; can be floated,
+- added an option for paragraph indenting.
+>>>>>>> upstream/master
 
 ###Kick-off of the project
 
